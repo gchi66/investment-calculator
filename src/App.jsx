@@ -4,10 +4,10 @@ import UserInput from "./components/UserInput.jsx";
 
 function App() {
   return (
-    <div>
+    <>
       <Header />
       <UserInput />
-    </div>
+    </>
   );
 }
 
