@@ -1,3 +1,7 @@
 export default function Results () {
-  return <p>Results</p>
+  return (
+    <p>Results</p>
+
+  )
+
 }
